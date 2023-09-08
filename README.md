@@ -11,6 +11,6 @@ python main.py
 ![](./LunarLander_result.gif)
 
 The code is based on the following document and paper:
-[]: https://gymnasium.farama.org/ "Gymnaxium Document"
-[]: https://arxiv.org/abs/1312.5602 "DQN paper"
-[]: https://goodboychan.github.io/python/reinforcement_learning/pytorch/udacity/2021/05/07/DQN-LunarLander.html#Define-Replay-Buffer "DQN Implemention"
+- [Gymnaxium Document](https://gymnasium.farama.org/)
+- [DQN paper](https://arxiv.org/abs/1312.5602)
+- [DQN Implemention](https://goodboychan.github.io/python/reinforcement_learning/pytorch/udacity/2021/05/07/DQN-LunarLander.html#Define-Replay-Buffer)
